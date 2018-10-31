@@ -6,6 +6,3 @@ def my_each(integer)
   end
 end
 
-# my_each(integer) do |i|
-#   puts "i"
-# end
