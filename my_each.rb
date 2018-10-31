@@ -8,4 +8,4 @@ end
 
 my_each(integer) do |i|
   puts "i"
-end 
+end
