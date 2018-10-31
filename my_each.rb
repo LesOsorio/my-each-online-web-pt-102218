@@ -1,8 +1,6 @@
-integer = [3,5,7,9]
 
-def my_each(integer)
-  while integer < 10 do 
+def my_each(array)
+  while  do
     yield
   end
 end
-
